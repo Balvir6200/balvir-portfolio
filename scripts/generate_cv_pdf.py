@@ -148,7 +148,7 @@ def build_pdf():
     story.append(
         p(
             "Mohali, Punjab, India | +91 98098-66200 | rajeevkainth01@gmail.com<br/>"
-            "GitHub: https://github.com/Balvir6200 | LinkedIn: https://www.linkedin.com/in/balvir-kainth/ | Portfolio: https://veer-portfolio.netlify.app/",
+            "GitHub: https://github.com/Balvir6200 | LinkedIn: https://www.linkedin.com/in/balvir-kainth/ | Portfolio: https://melodious-nasturtium-d643ce.netlify.app/",
             styles["contact"],
         )
     )

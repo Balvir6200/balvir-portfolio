@@ -7,7 +7,7 @@ Phone: +91 98098-66200
 Email: rajeevkainth01@gmail.com  
 GitHub: https://github.com/Balvir6200  
 LinkedIn: https://www.linkedin.com/in/balvir-kainth/  
-Portfolio: https://veer-portfolio.netlify.app/
+Portfolio: https://melodious-nasturtium-d643ce.netlify.app/
 
 ## Professional Profile
 
